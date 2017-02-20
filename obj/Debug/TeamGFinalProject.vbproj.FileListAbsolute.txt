@@ -1,0 +1,110 @@
+C:\Users\jgalligfiu\Google Drive\FIU\COP 4005\Final Project\Final Version\TeamGFinalProject\TeamGFinalProject\bin\Debug\TeamGFinalProject.exe.config
+C:\Users\jgalligfiu\Google Drive\FIU\COP 4005\Final Project\Final Version\TeamGFinalProject\TeamGFinalProject\obj\Debug\TeamGFinalProject.frmBookStore.resources
+C:\Users\jgalligfiu\Google Drive\FIU\COP 4005\Final Project\Final Version\TeamGFinalProject\TeamGFinalProject\obj\Debug\TeamGFinalProject.frmTitles.resources
+C:\Users\jgalligfiu\Google Drive\FIU\COP 4005\Final Project\Final Version\TeamGFinalProject\TeamGFinalProject\obj\Debug\TeamGFinalProject.Resources.resources
+C:\Users\jgalligfiu\Google Drive\FIU\COP 4005\Final Project\Final Version\TeamGFinalProject\TeamGFinalProject\obj\Debug\TeamGFinalProject.vbproj.GenerateResource.Cache
+C:\Users\jgalligfiu\Google Drive\FIU\COP 4005\Final Project\Final Version\TeamGFinalProject\TeamGFinalProject\obj\Debug\TeamGFinalProject.frmOrder.resources
+C:\Users\jgalligfiu\Google Drive\FIU\COP 4005\Final Project\Final Version\TeamGFinalProject\TeamGFinalProject\bin\Debug\BookCollection.MDF
+C:\Users\jgalligfiu\Google Drive\FIU\COP 4005\Final Project\Final Version\TeamGFinalProject\TeamGFinalProject\bin\Debug\BookCollection_log.ldf
+C:\Users\jgalligfiu\Google Drive\FIU\COP 4005\Final Project\Final Version\TeamGFinalProject\TeamGFinalProject\bin\Debug\TeamGFinalProject.exe
+C:\Users\jgalligfiu\Google Drive\FIU\COP 4005\Final Project\Final Version\TeamGFinalProject\TeamGFinalProject\bin\Debug\TeamGFinalProject.xml
+C:\Users\jgalligfiu\Google Drive\FIU\COP 4005\Final Project\Final Version\TeamGFinalProject\TeamGFinalProject\obj\Debug\TeamGFinalProject.exe
+C:\Users\jgalligfiu\Google Drive\FIU\COP 4005\Final Project\Final Version\TeamGFinalProject\TeamGFinalProject\obj\Debug\TeamGFinalProject.xml
+C:\Users\jgalligfiu\Google Drive\FIU\COP 4005\Final Project\Final Version\TeamGFinalProject\TeamGFinalProject\obj\Debug\TeamGFinalProject.pdb
+C:\Users\jgalligfiu\Google Drive\FIU\COP 4005\Final Project\Final Version\TeamGFinalProject\TeamGFinalProject\obj\Debug\TeamGFinalProject.frmAuthors.resources
+C:\Users\jgalligfiu\Google Drive\FIU\COP 4005\Final Project\Final Version\TeamGFinalProject\TeamGFinalProject\bin\Debug\TeamGFinalProject.pdb
+C:\Users\vh133\Downloads\TeamGFinalProject\TeamGFinalProject\bin\Debug\TeamGFinalProject.exe.config
+C:\Users\vh133\Downloads\TeamGFinalProject\TeamGFinalProject\obj\Debug\TeamGFinalProject.exe
+C:\Users\vh133\Downloads\TeamGFinalProject\TeamGFinalProject\obj\Debug\TeamGFinalProject.xml
+C:\Users\vh133\Downloads\TeamGFinalProject\TeamGFinalProject\obj\Debug\TeamGFinalProject.pdb
+C:\Users\vh133\Downloads\TeamGFinalProject\TeamGFinalProject\bin\Debug\BookCollection.MDF
+C:\Users\vh133\Downloads\TeamGFinalProject\TeamGFinalProject\bin\Debug\BookCollection_log.ldf
+C:\Users\vh133\Downloads\TeamGFinalProject\TeamGFinalProject\bin\Debug\TeamGFinalProject.exe
+C:\Users\vh133\Downloads\TeamGFinalProject\TeamGFinalProject\bin\Debug\TeamGFinalProject.pdb
+C:\Users\vh133\Downloads\TeamGFinalProject\TeamGFinalProject\bin\Debug\TeamGFinalProject.xml
+C:\Users\vh133\Downloads\TeamGFinalProject\TeamGFinalProject\obj\Debug\TeamGFinalProject.frmAuthors.resources
+C:\Users\vh133\Downloads\TeamGFinalProject\TeamGFinalProject\obj\Debug\TeamGFinalProject.frmBookStore.resources
+C:\Users\vh133\Downloads\TeamGFinalProject\TeamGFinalProject\obj\Debug\TeamGFinalProject.frmOrder.resources
+C:\Users\vh133\Downloads\TeamGFinalProject\TeamGFinalProject\obj\Debug\TeamGFinalProject.frmTitles.resources
+C:\Users\vh133\Downloads\TeamGFinalProject\TeamGFinalProject\obj\Debug\TeamGFinalProject.Resources.resources
+C:\Users\vh133\Downloads\TeamGFinalProject\TeamGFinalProject\obj\Debug\TeamGFinalProject.vbproj.GenerateResource.Cache
+C:\Users\jgallig\Google Drive\FIU\COP 4005\Final Project\Final Version\TeamGFinalProject\TeamGFinalProject\bin\Debug\TeamGFinalProject.exe.config
+C:\Users\jgallig\Google Drive\FIU\COP 4005\Final Project\Final Version\TeamGFinalProject\TeamGFinalProject\obj\Debug\TeamGFinalProject.exe
+C:\Users\jgallig\Google Drive\FIU\COP 4005\Final Project\Final Version\TeamGFinalProject\TeamGFinalProject\obj\Debug\TeamGFinalProject.xml
+C:\Users\jgallig\Google Drive\FIU\COP 4005\Final Project\Final Version\TeamGFinalProject\TeamGFinalProject\obj\Debug\TeamGFinalProject.pdb
+C:\Users\jgallig\Google Drive\FIU\COP 4005\Final Project\Final Version\TeamGFinalProject\TeamGFinalProject\bin\Debug\BookCollection.MDF
+C:\Users\jgallig\Google Drive\FIU\COP 4005\Final Project\Final Version\TeamGFinalProject\TeamGFinalProject\bin\Debug\BookCollection_log.ldf
+C:\Users\jgallig\Google Drive\FIU\COP 4005\Final Project\Final Version\TeamGFinalProject\TeamGFinalProject\bin\Debug\TeamGFinalProject.exe
+C:\Users\jgallig\Google Drive\FIU\COP 4005\Final Project\Final Version\TeamGFinalProject\TeamGFinalProject\bin\Debug\TeamGFinalProject.pdb
+C:\Users\jgallig\Google Drive\FIU\COP 4005\Final Project\Final Version\TeamGFinalProject\TeamGFinalProject\bin\Debug\TeamGFinalProject.xml
+C:\Users\jgallig\Google Drive\FIU\COP 4005\Final Project\Final Version\TeamGFinalProject\TeamGFinalProject\obj\Debug\TeamGFinalProject.frmAuthors.resources
+C:\Users\jgallig\Google Drive\FIU\COP 4005\Final Project\Final Version\TeamGFinalProject\TeamGFinalProject\obj\Debug\TeamGFinalProject.frmBookStore.resources
+C:\Users\jgallig\Google Drive\FIU\COP 4005\Final Project\Final Version\TeamGFinalProject\TeamGFinalProject\obj\Debug\TeamGFinalProject.frmOrder.resources
+C:\Users\jgallig\Google Drive\FIU\COP 4005\Final Project\Final Version\TeamGFinalProject\TeamGFinalProject\obj\Debug\TeamGFinalProject.frmTitles.resources
+C:\Users\jgallig\Google Drive\FIU\COP 4005\Final Project\Final Version\TeamGFinalProject\TeamGFinalProject\obj\Debug\TeamGFinalProject.Resources.resources
+C:\Users\jgallig\Google Drive\FIU\COP 4005\Final Project\Final Version\TeamGFinalProject\TeamGFinalProject\obj\Debug\TeamGFinalProject.vbproj.GenerateResource.Cache
+C:\Users\jgalligfiu\Desktop\Final Version\TeamGFinalProject\TeamGFinalProject\bin\Debug\TeamGFinalProject.exe.config
+C:\Users\jgalligfiu\Desktop\Final Version\TeamGFinalProject\TeamGFinalProject\obj\Debug\TeamGFinalProject.exe
+C:\Users\jgalligfiu\Desktop\Final Version\TeamGFinalProject\TeamGFinalProject\obj\Debug\TeamGFinalProject.xml
+C:\Users\jgalligfiu\Desktop\Final Version\TeamGFinalProject\TeamGFinalProject\obj\Debug\TeamGFinalProject.pdb
+C:\Users\jgalligfiu\Desktop\Final Version\TeamGFinalProject\TeamGFinalProject\bin\Debug\BookCollection.MDF
+C:\Users\jgalligfiu\Desktop\Final Version\TeamGFinalProject\TeamGFinalProject\bin\Debug\BookCollection_log.ldf
+C:\Users\jgalligfiu\Desktop\Final Version\TeamGFinalProject\TeamGFinalProject\bin\Debug\TeamGFinalProject.exe
+C:\Users\jgalligfiu\Desktop\Final Version\TeamGFinalProject\TeamGFinalProject\bin\Debug\TeamGFinalProject.pdb
+C:\Users\jgalligfiu\Desktop\Final Version\TeamGFinalProject\TeamGFinalProject\bin\Debug\TeamGFinalProject.xml
+C:\Users\jgalligfiu\Desktop\Final Version\TeamGFinalProject\TeamGFinalProject\obj\Debug\TeamGFinalProject.frmAuthors.resources
+C:\Users\jgalligfiu\Desktop\Final Version\TeamGFinalProject\TeamGFinalProject\obj\Debug\TeamGFinalProject.frmBookStore.resources
+C:\Users\jgalligfiu\Desktop\Final Version\TeamGFinalProject\TeamGFinalProject\obj\Debug\TeamGFinalProject.frmOrder.resources
+C:\Users\jgalligfiu\Desktop\Final Version\TeamGFinalProject\TeamGFinalProject\obj\Debug\TeamGFinalProject.frmTitles.resources
+C:\Users\jgalligfiu\Desktop\Final Version\TeamGFinalProject\TeamGFinalProject\obj\Debug\TeamGFinalProject.Resources.resources
+C:\Users\jgalligfiu\Desktop\Final Version\TeamGFinalProject\TeamGFinalProject\obj\Debug\TeamGFinalProject.vbproj.GenerateResource.Cache
+C:\Users\vh133\Downloads\Final Version\TeamGFinalProject\TeamGFinalProject\bin\Debug\TeamGFinalProject.exe.config
+C:\Users\vh133\Downloads\Final Version\TeamGFinalProject\TeamGFinalProject\obj\Debug\TeamGFinalProject.exe
+C:\Users\vh133\Downloads\Final Version\TeamGFinalProject\TeamGFinalProject\obj\Debug\TeamGFinalProject.xml
+C:\Users\vh133\Downloads\Final Version\TeamGFinalProject\TeamGFinalProject\obj\Debug\TeamGFinalProject.pdb
+C:\Users\vh133\Downloads\Final Version\TeamGFinalProject\TeamGFinalProject\bin\Debug\BookCollection.MDF
+C:\Users\vh133\Downloads\Final Version\TeamGFinalProject\TeamGFinalProject\bin\Debug\BookCollection_log.ldf
+C:\Users\vh133\Downloads\Final Version\TeamGFinalProject\TeamGFinalProject\bin\Debug\TeamGFinalProject.exe
+C:\Users\vh133\Downloads\Final Version\TeamGFinalProject\TeamGFinalProject\bin\Debug\TeamGFinalProject.pdb
+C:\Users\vh133\Downloads\Final Version\TeamGFinalProject\TeamGFinalProject\bin\Debug\TeamGFinalProject.xml
+C:\Users\vh133\Downloads\Final Version\TeamGFinalProject\TeamGFinalProject\obj\Debug\TeamGFinalProject.frmAuthors.resources
+C:\Users\vh133\Downloads\Final Version\TeamGFinalProject\TeamGFinalProject\obj\Debug\TeamGFinalProject.frmBookStore.resources
+C:\Users\vh133\Downloads\Final Version\TeamGFinalProject\TeamGFinalProject\obj\Debug\TeamGFinalProject.frmOrder.resources
+C:\Users\vh133\Downloads\Final Version\TeamGFinalProject\TeamGFinalProject\obj\Debug\TeamGFinalProject.frmTitles.resources
+C:\Users\vh133\Downloads\Final Version\TeamGFinalProject\TeamGFinalProject\obj\Debug\TeamGFinalProject.Resources.resources
+C:\Users\vh133\Downloads\Final Version\TeamGFinalProject\TeamGFinalProject\obj\Debug\TeamGFinalProject.vbproj.GenerateResource.Cache
+C:\Users\vh133\Downloads\Final Version\TeamGFinalProject\TeamGFinalProject\obj\Debug\TeamGFinalProject.frmPublishers.resources
+C:\Users\bryan\Documents\TeamGFinalProject\bin\Debug\TeamGFinalProject.exe.config
+C:\Users\bryan\Documents\TeamGFinalProject\obj\Debug\TeamGFinalProject.exe
+C:\Users\bryan\Documents\TeamGFinalProject\obj\Debug\TeamGFinalProject.xml
+C:\Users\bryan\Documents\TeamGFinalProject\obj\Debug\TeamGFinalProject.pdb
+C:\Users\bryan\Documents\TeamGFinalProject\bin\Debug\BookCollection.MDF
+C:\Users\bryan\Documents\TeamGFinalProject\bin\Debug\BookCollection_log.ldf
+C:\Users\bryan\Documents\TeamGFinalProject\bin\Debug\TeamGFinalProject.exe
+C:\Users\bryan\Documents\TeamGFinalProject\bin\Debug\TeamGFinalProject.pdb
+C:\Users\bryan\Documents\TeamGFinalProject\bin\Debug\TeamGFinalProject.xml
+C:\Users\bryan\Documents\TeamGFinalProject\obj\Debug\TeamGFinalProject.frmAuthors.resources
+C:\Users\bryan\Documents\TeamGFinalProject\obj\Debug\TeamGFinalProject.frmBookStore.resources
+C:\Users\bryan\Documents\TeamGFinalProject\obj\Debug\TeamGFinalProject.frmOrder.resources
+C:\Users\bryan\Documents\TeamGFinalProject\obj\Debug\TeamGFinalProject.frmPublishers.resources
+C:\Users\bryan\Documents\TeamGFinalProject\obj\Debug\TeamGFinalProject.frmResults.resources
+C:\Users\bryan\Documents\TeamGFinalProject\obj\Debug\TeamGFinalProject.frmTitles.resources
+C:\Users\bryan\Documents\TeamGFinalProject\obj\Debug\TeamGFinalProject.Resources.resources
+C:\Users\bryan\Documents\TeamGFinalProject\obj\Debug\TeamGFinalProject.vbproj.GenerateResource.Cache
+C:\Users\jgalligfiu\Downloads\TeamGFinalProject\bin\Debug\TeamGFinalProject.exe.config
+C:\Users\jgalligfiu\Downloads\TeamGFinalProject\obj\Debug\TeamGFinalProject.exe
+C:\Users\jgalligfiu\Downloads\TeamGFinalProject\obj\Debug\TeamGFinalProject.xml
+C:\Users\jgalligfiu\Downloads\TeamGFinalProject\obj\Debug\TeamGFinalProject.pdb
+C:\Users\jgalligfiu\Downloads\TeamGFinalProject\bin\Debug\BookCollection.MDF
+C:\Users\jgalligfiu\Downloads\TeamGFinalProject\bin\Debug\BookCollection_log.ldf
+C:\Users\jgalligfiu\Downloads\TeamGFinalProject\bin\Debug\TeamGFinalProject.exe
+C:\Users\jgalligfiu\Downloads\TeamGFinalProject\bin\Debug\TeamGFinalProject.pdb
+C:\Users\jgalligfiu\Downloads\TeamGFinalProject\bin\Debug\TeamGFinalProject.xml
+C:\Users\jgalligfiu\Downloads\TeamGFinalProject\obj\Debug\TeamGFinalProject.frmAuthors.resources
+C:\Users\jgalligfiu\Downloads\TeamGFinalProject\obj\Debug\TeamGFinalProject.frmBookStore.resources
+C:\Users\jgalligfiu\Downloads\TeamGFinalProject\obj\Debug\TeamGFinalProject.frmOrder.resources
+C:\Users\jgalligfiu\Downloads\TeamGFinalProject\obj\Debug\TeamGFinalProject.frmPublishers.resources
+C:\Users\jgalligfiu\Downloads\TeamGFinalProject\obj\Debug\TeamGFinalProject.frmResults.resources
+C:\Users\jgalligfiu\Downloads\TeamGFinalProject\obj\Debug\TeamGFinalProject.frmTitles.resources
+C:\Users\jgalligfiu\Downloads\TeamGFinalProject\obj\Debug\TeamGFinalProject.Resources.resources
+C:\Users\jgalligfiu\Downloads\TeamGFinalProject\obj\Debug\TeamGFinalProject.vbproj.GenerateResource.Cache
